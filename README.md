@@ -2,9 +2,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHMyaHhrcTN6MWgyZGFyNWl0YnQ3bTVzdjJqeDMyZmEzbTAzZXB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7gKsSdX2n6csHSiMz/giphy.gif" alt="cyberpunk animation" width="600px">
 </p>
 
-<h1 align="center">👾 Дмитрий Ryaschikov (DanteMxR)</h1>
+<h1 align="center">👾 Dmitry Ryaschikov </h1>
 <p align="center">
-  💻 Frontend Developer | Cyberpunk Enthusiast | Code Architect<br>
+  💻 Frontend Developer | Frontend developer | Code Architect<br>
   Building high-performance interfaces with a futuristic edge ⚡
 </p>
 
@@ -14,8 +14,6 @@
 
 I’m a frontend developer drawn to sleek, high-tech interfaces and powerful user experiences.  
 I value **clean architecture**, **performance**, and **elegant code** — always optimized like a finely-tuned cyber rig.
-
-> “Code is the neon pulse of the digital city.”
 
 ---
 
@@ -56,7 +54,7 @@ I value **clean architecture**, **performance**, and **elegant code** — always
 
 ✉️ Email: ryashikov@list.ru  
 📱 Phone: +7 927 124-71-21  
-🌍 Location: Balakovo, Russia
+🌍 Location: Somewhere???
 
 ---
 
