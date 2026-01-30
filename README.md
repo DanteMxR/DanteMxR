@@ -12,8 +12,7 @@
 
 ## 🧠 Who I Am
 
-I’m a frontend developer drawn to sleek, high-tech interfaces and powerful user experiences.  
-I value **clean architecture**, **performance**, and **elegant code** — always optimized like a finely-tuned cyber rig.
+just a new iron man
 
 ---
 
