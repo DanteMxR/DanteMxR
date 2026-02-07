@@ -4,7 +4,7 @@
 
 <h1 align="center">👾 Dmitry Ryaschikov </h1>
 <p align="center">
-  💻 Frontend Developer | Frontend developer | Code Architect<br>
+  💻 Frontend Developer | Code Architect<br>
   Building high-performance interfaces with a futuristic edge ⚡
 </p>
 
