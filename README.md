@@ -4,55 +4,56 @@
 
 <h1 align="center">👾 Dmitry Ryaschikov </h1>
 <p align="center">
-  💻 Frontend Developer | Code Architect<br>
-  Building high-performance interfaces with a futuristic edge ⚡
+  💻 Frontend & Mobile Developer | Code Architect<br>
+  Building high-performance interfaces across web & mobile ⚡
 </p>
 
 ---
 
 ## 🧠 Who I Am
 
-just a new iron man
+Just a new Tony Stark, creating futuristic experiences on web, desktop, and mobile.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Frontend | Backend & Integrations | Tools |
-|----------|------------------------|-------|
-| React / Next.js | Node.js | Git / GitHub |
-| React Native | REST APIs / WebSocket | VS Code |
-| TypeScript / JavaScript | JWT / OAuth 2.0 | ESLint / Prettier |
-| HTML, CSS, SCSS, Tailwind | AI services & SDKs | Figma / UI Kits |
-| D3.js / Data visualization | Electron | Debugging & Optimization |
+| Frontend                   | Mobile              | Backend & Integrations | Tools                    |
+| -------------------------- | ------------------- | ---------------------- | ------------------------ |
+| React / Next.js            | Flutter             | Node.js                | Git / GitHub             |
+| React Native               | Dart                | REST APIs / WebSocket  | VS Code                  |
+| TypeScript / JavaScript    | React Native        | JWT / OAuth 2.0        | ESLint / Prettier        |
+| HTML, CSS, SCSS, Tailwind  | Cross-platform apps | AI services & SDKs     | Figma / UI Kits          |
+| D3.js / Data visualization |                     | Electron               | Debugging & Optimization |
 
 ---
 
 ## 🎯 What I Value
 
-✨ Elegant & maintainable code  
-⚡ Performance in every interaction  
-🧩 Design that tells a story  
-🚀 Real-time UI & fast feedback loops  
-🗣 Clear communication & collaboration  
+✨ Elegant & maintainable code
+⚡ Performance in every interaction
+🧩 Design that tells a story
+🚀 Real-time UI & fast feedback loops
+📱 Seamless mobile & cross-platform experiences
+🗣 Clear communication & collaboration
 📚 Lifelong learning & evolution
 
 ---
 
 ## 🔭 I’m Exploring
 
-🔹 Advanced React patterns  
-🔹 AI UI components  
-🔹 Desktop & cross-platform apps  
-🔹 Data visualization interfaces  
-🔹 Design systems & component libraries
+🔹 Advanced React & Flutter patterns
+🔹 AI UI components
+🔹 Desktop & cross-platform apps
+🔹 Mobile-first & responsive interfaces
+🔹 Data visualization & design systems
 
 ---
 
 ## 📫 Contact
 
-✉️ Email: ryashikov@list.ru  
-📱 Phone: +7 927 124-71-21  
+✉️ Email: [ryashikov@list.ru](mailto:ryashikov@list.ru)
+📱 Phone: +7 927 124-71-21
 🌍 Location: Somewhere???
 
 ---
